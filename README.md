@@ -2,18 +2,18 @@
 
 ## Tasks 
 
-|     | [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) | Dataset 2 |
+|     | [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) | [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) |
 |-----|:-:|:-:|
-| Clean the Data (deal with missing values) | | |
+| Clean the Data (deal with missing values) | X | |
 | Use an Ordinal Encoder | | |
-| Use a One Hot Encoder | | |
+| Use a One Hot Encoder | | X |
 | Implement a custom transformer | | |
 | Scale/normalize/standardize features using<br> _sklearn.preprocessing_ | | |
-| Use _SGDClassifier_ | | |
+| Use _SGDClassifier_ | | X |
 | Use _sklearn.linear_model.LinearRegression_ | | |
-| Use _sklearn.tree.DecisionTreeRegressor_ | | |
-| Use _sklearn.ensamble.RandomForestClassifier_ | | |
-| Use _sklearn.neighbors.KNeighborsClassifier_ | | |
+| Use _sklearn.tree.DecisionTreeRegressor_ | | X |
+| Use _sklearn.ensamble.RandomForestClassifier_ | | X |
+| Use _sklearn.neighbors.KNeighborsClassifier_ | | X |
 | Use OvO or OvR classifier | | |
 | Use k-fold Cross Validation (_cross_val_score_) | | |
 | Use _StratifiedKFold_ cross validation | | |
