@@ -2,6 +2,8 @@
 
 ## Tasks 
 
+<div align="center">
+
 |     | [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) | [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) |
 |-----|:-:|:-:|
 | Clean the Data (deal with missing values) | X | |
@@ -25,6 +27,7 @@
 | Evaluate your system on the Test Data | | |
 | Create a single pipeline that does full process from<br>data preparation to final prediction. | | |
 
+</div>
 
 ## Datasets
   - [Uber Fares Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
